@@ -17,3 +17,5 @@ Grad-CAM produces heatmaps that highlight which regions of an image contribute m
 - Inspect potential biases or spurious correlations  
 
 This project follows the structure suggested in Lecture 9 (Interpretability / Explainability / Bias).
+
+Youtube Link: https://www.youtube.com/watch?v=bLNHfx-hbgU&t=4s
